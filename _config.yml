@@ -1,0 +1,18 @@
+title: Ivan Kuria
+description: Security-focused Solutions Architect with 7+ years of experience.
+baseurl: ""
+url: "https://i-am-ivan.github.io/Portfolio/"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-paginate
+markdown: kramdown
+
+# Navigation
+header:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Contact"
+    url: "/contact"
+
